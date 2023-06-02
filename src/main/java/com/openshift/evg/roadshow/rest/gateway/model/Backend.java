@@ -65,7 +65,7 @@ public class Backend {
     public String toString() {
         return "Backend{" +
                 "id='" + id + '\'' +
-                ", displayName='" + displayName + '\'' +
+                ", displayName2='" + displayName + '\'' +
                 ", center='" + center + '\'' +
                 ", zoom='" + zoom + '\'' +
                 '}';
